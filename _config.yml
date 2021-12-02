@@ -26,7 +26,7 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: choyoub
+    #twitter: choyoub
     github:  choyoub
     #linkedIn: in/choyoub
     #dribbble: jekyll
@@ -34,7 +34,7 @@ plainwhite:
     #instagram: jekyll
     #pinterest: jekyll
     #youtube: jekyll
-    facebook: choyoub
+    #facebook: choyoub
     #soundcloud: jekyll
     #telegram: jekyll
     #gitlab: jekyll
